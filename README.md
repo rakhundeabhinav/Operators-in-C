@@ -1,24 +1,24 @@
-🧪 Experiment 3: To Study and Implement Operators in C++
+🧪 Experiment 3: To Study and Implement Conditional Statements and Operators in C++
 
 🔹 Aim:
-To study and implement different types of operators in C++ through a sample program.
-
+To implement basic C++ programs using conditional statements and operators to solve real-world problems such as number checking, grading, and coordinate analysis.
 
 🔹 Theory:
+Conditional statements (if, else if, else) and relational/logical operators allow a program to make decisions based on input. They are essential for:
 
-Operators in C++ are symbols used to perform operations on variables and values. The main types include:
+Comparing values (e.g., marks, coordinates)
 
-Arithmetic Operators: +, -, *, /, %
+Making decisions based on conditions
 
-Relational (Comparison) Operators: ==, !=, >, <, >=, <=
+Executing specific code blocks when certain conditions are met
 
-Logical Operators: &&, ||, !
+This experiment involves three programs:
 
-Assignment Operators: =, +=, -=, *=, /=, etc.
+Positive-Negative Checker
 
-Increment/Decrement Operators: ++, --
+Grading System
 
-These operators help in performing mathematical calculations, comparisons, logical decisions, and variable value modifications.
+Point Coordinates (Quadrant Checker)
 
 🔹Conclusion:
-This experiment helped me understand and apply various C++ operators through practical implementation using user input.
+Through these programs, we learned how to use conditional statements and operators in C++ to make decisions, check values, assign grades, and identify coordinate positions. These form the base of control flow in programming.
