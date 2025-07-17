@@ -21,4 +21,4 @@ Grading System
 Point Coordinates (Quadrant Checker)
 
 🔹Conclusion:
-Through these programs, we learned how to use conditional statements and operators in C++ to make decisions, check values, assign grades, and identify coordinate positions. These form the base of control flow in programming.
+Through these programs, I learned how to use conditional statements and operators in C++ to make decisions, check values, assign grades, and identify coordinate positions. These form the base of control flow in programming.
