@@ -1,24 +1,30 @@
-🧪 Experiment 3: To Study and Implement Conditional Statements and Operators in C++
+🧪 Experiment 3: Conditional Statements and Operators in C++
+🔹 Aim
+To implement basic C++ programs that utilize conditional statements and operators for solving real-world problems such as number analysis, grading, and coordinate positioning.
 
-🔹 Aim:
-To implement basic C++ programs using conditional statements and operators to solve real-world problems such as number checking, grading, and coordinate analysis.
+🔹 Theory
+Conditional statements like if, else if, and else, along with relational and logical operators, enable a program to make decisions based on input conditions. These are essential for:
 
-🔹 Theory:
-Conditional statements (if, else if, else) and relational/logical operators allow a program to make decisions based on input. They are essential for:
+=>> Comparing values – such as marks or coordinates
+=>> Making logical decisions – based on multiple conditions
+=>> Executing code selectively – when specific criteria are met
 
-Comparing values (e.g., marks, coordinates)
+In this experiment, the following programs were created:
 
-Making decisions based on conditions
+📌 Positive-Negative Checker
+Determines whether the entered number is positive, negative, or zero.
 
-Executing specific code blocks when certain conditions are met
+📌 Grading System
+Calculates and displays the grade based on the marks entered.
 
-This experiment involves three programs:
+📌 Point Coordinates (Quadrant Checker)
+Identifies the quadrant or axis on which a given point lies in the coordinate system.
 
-Positive-Negative Checker
+🔹 Conclusion
+Through this experiment, I developed a strong understanding of conditional logic in C++. These programs helped me learn how to:
 
-Grading System
+✅ Use conditional statements effectively
+✅ Implement value-checking and grading logic
+✅ Analyze coordinates using conditions
 
-Point Coordinates (Quadrant Checker)
-
-🔹Conclusion:
-Through these programs, I learned how to use conditional statements and operators in C++ to make decisions, check values, assign grades, and identify coordinate positions. These form the base of control flow in programming.
+Overall, this forms the foundational knowledge for control flow in programming.
